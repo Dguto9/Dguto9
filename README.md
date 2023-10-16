@@ -1,4 +1,4 @@
-I'm Dguto9, or Dillon Gutowski. If you are reading this most of the information will be inaccurate because my interests WILL change (as they continuously do), and I WILL forget to modify this.
+I'm Dguto9, or Dillon Gutowski. If you are reading this, most of the information will be inaccurate because my interests WILL change (as they continuously do), and I WILL forget to modify this.
 
 So here we go: I have had interest in programming since I was a fourth grader learning Perl from my dad. In the years since, I have attempted many projects in various areas and languages, finishing few but gaining small experience across a variety of topics. For some time I settled in making small games in Unity, but grew bored. Wanting to try something new, I began to use C++, and began work on a variety of projects, relearning all I knew about programming as I had not needed to use many advanced concepts before.
 
