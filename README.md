@@ -4,7 +4,7 @@ So here we go: I have had interest in programming since I was a fourth grader le
 
 I want to try to get in to Rust at some point and I want to learn how to better structure my projects to post them here.
 
-Here are some projects that I am proud of:
+Here are some projects which I am particularly proud of:
 - A nixie tube clock built upon my own PCB
 - A matrix library and associated image processing and neural network library
 - I contributed to a Wallpaper Engine wallpaper
