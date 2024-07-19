@@ -10,8 +10,8 @@ Here are some projects which I am particularly proud of:
 - An image pixel sorter based on the aforementioned libraries 
 - A guitar amplifier which uses vacuum tubes, also using my own PCB designs
 - An inverse-kinematics based sprawling-type quadrupedal robot
-- I contributed to a Wallpaper Engine wallpaper
-- I made a few discord chat bots
+- Contributions to a Wallpaper Engine wallpaper
+- A few discord chat bots
 <!---
 Dguto9/Dguto9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
