@@ -1,17 +1,10 @@
-Hi! I'm Dguto9, or Dillon Gutowski.
+Hey! I'm Dillon.
 
-I have had interest in programming since I was a fourth grader learning Perl from my dad. In the years since, I have attempted many projects in various areas and languages, finishing few but gaining pieces experience across a variety of topics. For some time I settled into making small games in Unity, but grew bored. Wanting to try something new, I began to use C++, and began work on a variety of projects, relearning all I knew about programming as I had not needed to use many advanced concepts before.
+I like to make things. 
 
-I want to try to get into Rust at some point and I want to learn how to better structure my projects to post them here.
+Most of my projects are in C++ (my favorite language) and Python, but I've been enjoying writing in Uiua recently. I'd like to learn some Rust as well.
 
-Here are some projects which I am particularly proud of:
-- A nixie tube clock built upon my own PCB
-- A matrix library and associated image processing and neural network library
-- An image pixel sorter based on the aforementioned libraries 
-- A guitar amplifier which uses vacuum tubes, also using my own PCB designs
-- An inverse-kinematics based sprawling-type quadrupedal robot
-- Contributions to a Wallpaper Engine wallpaper
-- A few discord chat bots
+If you're curious, check out my [Uiua mesh library](https://github.com/dguto9/meshing-around), check out [black-hole pong](https://github.com/dguto9/gravitational-lensing) or my attempt at designing a [modular guitar amplifier](https://github.com/dguto9/modular-amp).
 <!---
 Dguto9/Dguto9 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
